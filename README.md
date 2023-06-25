@@ -35,7 +35,7 @@ Jenny Igotit 867-5309
 ```
 
 ## How to use
-`paste [-s] [-d list] file1 file2`
+`paste.py [-s] [-d list] file1 file2`
 
 ### Options
 The options are as follows:
