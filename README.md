@@ -55,7 +55,7 @@ Mark Smith Bobby Brown Sue Miller Jenny Igotit
 
 The following example shows the output of paste with the option ```-d``` which uses the character `:` as delimiter:
 ```
-$ paste --delimiters : names.txt numbers.txt
+$ paste --d : names.txt numbers.txt
 Mark Smith:555-1234
 Bobby Brown:555-9876
 Sue Miller:555-6743
